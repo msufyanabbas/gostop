@@ -1,0 +1,8 @@
+.detection {
+  flex: 1;
+  border: 2px solid black;
+  margin-right: 50px;
+}
+.detection h4 {
+  text-align: center;
+}

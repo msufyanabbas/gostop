@@ -1,0 +1,11 @@
+.prioritization {
+  flex: 1;
+  border: 2px solid black;
+  text-align: center;
+  margin-right: 50px;
+}
+ul li {
+  list-style-type: none;
+  text-decoration: none;
+  color: none;
+}
